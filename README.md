@@ -15,4 +15,6 @@ Selecting location from a list of choices:
 `./index.js`
 
 
-    
+### Screenshots:
+
+![alt text](master/screenshots/full-output.png)
