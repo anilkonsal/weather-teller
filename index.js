@@ -15,7 +15,7 @@ const questions = {
 commander
   .version('1.0')
   .description('Weather Teller')
-  .option('-l, --location <location>', 'Location')
+  .option('-l, --location <location>', `Location ${questions.choices.join(', ')}`)
   .parse(process.argv)
 
 if (commander.location !== undefined) {
