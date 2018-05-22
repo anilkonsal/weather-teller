@@ -16,5 +16,16 @@ Selecting location from a list of choices:
 
 
 ### Screenshots:
+#### Loading Indicator with command line location
+![Screenshot](loading.jpg)
 
-![Screenshot](full-output.png)
+#### Location Selection from list
+![Screenshot](choice-selection.jpg)
+
+#### Output in both cases
+![Screenshot](full-output.jpg)
+
+
+
+
+
