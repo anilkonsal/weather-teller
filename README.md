@@ -17,4 +17,4 @@ Selecting location from a list of choices:
 
 ### Screenshots:
 
-![alt text](master/screenshots/full-output.png)
+![alt text](screenshots/full-output.png)
